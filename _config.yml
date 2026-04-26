@@ -24,13 +24,13 @@ repository               : "SunnyKYTang/SunnyKYTang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sunny's homepage"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "notes from a middle school student in Shanghai"
   location         : "Shanghai China"
-  employer         : "Red Brick University"
+  employer         : "WLSA middle school"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Sunny.keying.tang@gmail.com"
 
   # Academic websites
   academia         : # URL
