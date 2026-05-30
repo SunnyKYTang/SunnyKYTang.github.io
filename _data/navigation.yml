@@ -1,0 +1,15 @@
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Activities"
+    url: /activities/
+
+  - title: "Achievements"
+    url: /achievements/
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "CV"
+    url: /cv/

@@ -1,0 +1,44 @@
+title: "Your Name"
+name: "Your Name"
+
+description: "Researcher | Engineer | Builder"
+
+url: "https://yourname.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Your Name"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Researcher in AI and Multi-Agent Systems"
+
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourname"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourname"
+
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your@email.com"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+
+minimal_mistakes_skin: default
